@@ -1,18 +1,52 @@
-
-.main{
+.container{
     height: 700px;
-    width: 1200px;
-    border: 2px solid black;
-    margin-top: 3%; 
-    margin-left: 10%;
-    background-color: antiquewhite;
+    width: 1000px;
+    border: 2px solid rgb(244, 234, 234);
+    margin-top: 2%; 
+    margin-left: 15%;
+    background-color: rgb(111, 212, 237);
+}
+.main{
+    height: 600px;
+    width: 450px;
+    margin-top: 5%; 
+    margin-left: 25%;
+    background-color: rgb(251, 242, 230);
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px #adaeae;
 }
 
 .srch{
     height: 50px;
-    width:1190px;
-    border: 2px solid black;
+    width:400px;
+    box-shadow: 10px 10px 10px #7c7d7e;
     border-radius: 20px;
-    margin-top: 1%; 
+    margin-top: 5%; 
     
+}
+.name{
+    font-size:xx-large;
+
+}
+.temp{
+    font-weight: 500;
+    font-size: xxx-large;
+}
+.image{
+   
+    height:15%;
+    width:15%;
+    
+}
+.pre{
+    display: flex;
+    gap: 10%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.sun{
+    margin-top: 5%;
+    display: flex;
+    gap:20%;
+    margin-left: 0%;
 }
