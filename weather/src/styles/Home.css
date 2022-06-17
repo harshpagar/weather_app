@@ -1,0 +1,18 @@
+
+.main{
+    height: 800px;
+    width: 1200px;
+    border: 2px solid black;
+    margin-top: 5%; 
+    margin-left: 10%;
+    background-color: antiquewhite;
+}
+
+.srch{
+    height: 50px;
+    width:1190px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 1%; 
+    
+}
