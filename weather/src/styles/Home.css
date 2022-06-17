@@ -1,9 +1,9 @@
 
 .main{
-    height: 800px;
+    height: 700px;
     width: 1200px;
     border: 2px solid black;
-    margin-top: 5%; 
+    margin-top: 3%; 
     margin-left: 10%;
     background-color: antiquewhite;
 }
